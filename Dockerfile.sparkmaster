@@ -1,0 +1,5 @@
+FROM bde2020/spark-master:3.3.0-hadoop3.3
+
+RUN rm /spark/jars/guava-14.0.1.jar
+
+COPY guava-27.0-jre.jar /spark/jars/guava-27.0-jre.jar
