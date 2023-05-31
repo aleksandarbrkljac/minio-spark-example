@@ -1,6 +1,6 @@
 # Minio-Spark Integration Example
 
-## A fully functional EXAMPLE project written in Python showing how to integrate MinIO S3 bucket with Spark 3.3.0 
+## A fully functional EXAMPLE project written in Python showing how to integrate MinIO and Spark 3.3.0 
 
 ## Problem Description
 
