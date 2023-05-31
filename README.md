@@ -1,5 +1,7 @@
 # Minio-Spark Integration Example
 
+## A fully functional EXAMPLE project written in Python showing how to integrate MinIO S3 bucket with Spark 3.3.0 
+
 ## Problem Description
 
 This project is an example of how to integrate Apache Spark 3.3.0 with Minio in a local environment. It specifically addresses an issue with the Guava package version that causes an error when attempting this integration.
